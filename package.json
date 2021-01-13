@@ -1,5 +1,6 @@
 {
 	"author": "Sabina",
+	"description": "A project which will help me get 100 points",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.17.1"
