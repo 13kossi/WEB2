@@ -3,6 +3,7 @@
 	"description": "A project which will help me get 100 points",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
+	"version": "1.0",
 	"keywords": [ "webProgrammer", "freecodecamp", "node js" ],
 	"dependencies": {
 		"express": "^4.17.1"
